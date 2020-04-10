@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibManApp.Web", "LibManApp.Web\LibManApp.Web.csproj", "{95AF129D-645D-49A7-9E93-9AF498820D08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibManApp.Data", "LibManApp.Data\LibManApp.Data.csproj", "{F67D26A9-FF80-4D97-986B-DEADF670D630}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibManApp.Service", "LibManApp.Service\LibManApp.Service.csproj", "{E6DBC83C-EDFF-4B76-8D0D-33D313F31FE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution files", "Solution files", "{F1AE91D4-29E0-4FD5-AD30-7D87E12ACEBE}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\WeirdCoder\Documents\readmeforlibman.txt = ..\..\Users\WeirdCoder\Documents\readmeforlibman.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95AF129D-645D-49A7-9E93-9AF498820D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AF129D-645D-49A7-9E93-9AF498820D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AF129D-645D-49A7-9E93-9AF498820D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AF129D-645D-49A7-9E93-9AF498820D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67D26A9-FF80-4D97-986B-DEADF670D630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67D26A9-FF80-4D97-986B-DEADF670D630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67D26A9-FF80-4D97-986B-DEADF670D630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67D26A9-FF80-4D97-986B-DEADF670D630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6DBC83C-EDFF-4B76-8D0D-33D313F31FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6DBC83C-EDFF-4B76-8D0D-33D313F31FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6DBC83C-EDFF-4B76-8D0D-33D313F31FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6DBC83C-EDFF-4B76-8D0D-33D313F31FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D5559A-86B6-4846-95AD-EB16141977BC}
+	EndGlobalSection
+EndGlobal
